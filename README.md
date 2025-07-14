@@ -1,19 +1,19 @@
-<h1 align="center">Hi, I'm Flavin 👋</h1>
+<h1 align="center">Hi, I'm Rafii Anindito 👋</h1>
 
 <p align="center">
-  <i>Backend Developer | Final Year Informatics Student | Clean Architecture Enthusiast</i>
+  <i>Backend Developer | Final Year Informatics Student</i>
 </p>
 
 ---
 
 ### 🔧 Tech Stack
 
-- 💻 **Languages**: Go (Golang), TypeScript, Python  
-- 🧠 **Backend**: Go Fiber, REST API, Gin, Flask  
-- 🗄️ **Database**: PostgreSQL (via Supabase), Redis, Firebase RTDB  
-- 🔐 **Auth**: Firebase Auth, JWT, Custom Claims  
-- ☁️ **Cloud & Tools**: Railway, Vercel, Firebase, Cloudinary, Upstash, Tripay API  
-- 🛠️ **Dev Tools**: Docker, GitHub Actions, Postman, Insomnia, GORM, Swagger
+- 💻 **Languages**: Go (Golang), TypeScript 
+- 🧠 **Backend**: Go Fiber  
+- 🗄️ **Database**: PostgreSQL, Redis, Firebase Real-time Database 
+- 🔐 **Auth**: Firebase Auth  
+- ☁️ **Cloud & Tools**: Railway, Vercel, Firebase, Cloudinary, Upstash
+- 🛠️ **Dev Tools**: Docker
 
 ---
 
@@ -22,13 +22,11 @@
 #### 🛒 [`tokoaku`](https://github.com/winterheatherica/tokoaku-backend) – Fullstack E-Commerce Platform
 
 - ✅ Role-based Auth (Customer, Seller, Admin)
-- 🛍️ Seller Dashboard: Products, Variants, Images, Discounts, Shipping
-- 📦 Checkout: Promo, Tripay VA, RajaOngkir Shipping, Redis Cart
 - 🤖 AI: Sentiment Analysis (IndoBERT), Summarization (IndoT5), Sales Forecast (BiLSTM)
 - 💻 Stack:
   - Frontend: Next.js App Router (Vercel)
   - Backend: Go Fiber (Railway)
-  - ML API: Flask + PyTorch (Railway)
+  - ML API: Flask + PyTorch
   - DB: PostgreSQL (Supabase), Redis (Upstash)
   - Auth: Firebase Email/Google + Custom Claims
 
@@ -46,11 +44,11 @@
 ### 📫 Connect with Me
 
 - 🌐 GitHub: [github.com/winterheatherica](https://github.com/winterheatherica)
-- 📧 Email: [flavin@gmail.com](mailto:flavin@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/flavin](https://linkedin.com/in/flavin)
+- 📧 Email: [winterheatherica@gmail.com](mailto:winterheatherica@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/rafiianindito](https://linkedin.com/in/rafiianindito)
 
 ---
 
 <p align="center">
-  <i>"I build secure, scalable, and structured backend systems."</i> 🧩
+  <i>"I’m passionate about backend development and eager to keep learning deeper into scalable systems, databases, and cloud infrastructure."</i> 🚀
 </p>
