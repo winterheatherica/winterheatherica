@@ -32,7 +32,7 @@ A production-grade e-commerce system with integrated AI features, built using mo
   Built using **Next.js App Router**, modular components, auth guard, dynamic product & variant views, and a responsive dashboard.
 
 - 🧠 **Machine Learning API**  
-  [`tokoaku-ml`](https://github.com/winterheatherica/tokoaku-ml)  
+  [`tokoaku-machine-learning`](https://github.com/winterheatherica/tokoaku-machine-learning)  
   Flask-based API for **sentiment analysis** (IndoBERT), **review summarization** (IndoT5), and **sales forecasting** (BiLSTM), integrated into the full system.
 
 ---
