@@ -32,6 +32,17 @@
 
 ---
 
+### 🧠 Tech Stack Interests
+
+I'm currently exploring and learning more about:
+
+- ⚙️ **Orchestration & Infra**: Kubernetes, Docker
+- ⚡ **Distributed Systems**: Kafka, RabbitMQ
+- 💾 **NoSQL Databases**: ScyllaDB, Cassandra
+- 🔎 **Search Engines**: OpenSearch, Elasticsearch
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
