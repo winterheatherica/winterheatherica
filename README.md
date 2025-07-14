@@ -19,16 +19,21 @@
 
 ### 🚀 Highlight Project
 
-#### 🛒 [`tokoaku`](https://github.com/winterheatherica/tokoaku-backend) – Fullstack E-Commerce Platform
+#### 🛒 Tokoaku – Fullstack E-Commerce Platform
 
-- ✅ Role-based Auth (Customer, Seller, Admin)
-- 🤖 AI: Sentiment Analysis (IndoBERT), Summarization (IndoT5), Sales Forecast (BiLSTM)
-- 💻 Stack:
-  - Frontend: Next.js App Router (Vercel)
-  - Backend: Go Fiber (Railway)
-  - ML API: Flask + PyTorch
-  - DB: PostgreSQL (Supabase), Redis (Upstash)
-  - Auth: Firebase Email/Google + Custom Claims
+A production-grade e-commerce system with integrated AI features, built using modular, scalable, and role-based architecture.
+
+- 🔙 **Backend**  
+  [`tokoaku-backend`](https://github.com/winterheatherica/tokoaku-backend)  
+  Built with **Go Fiber**, RESTful APIs, PostgreSQL (Supabase), Redis (Upstash), Firebase Auth, and integrations such as Tripay, RajaOngkir, and Cloudinary.
+
+- 💻 **Frontend**  
+  [`tokoaku-frontend`](https://github.com/winterheatherica/tokoaku-frontend)  
+  Built using **Next.js App Router**, modular components, auth guard, dynamic product & variant views, and a responsive dashboard.
+
+- 🧠 **Machine Learning API**  
+  [`tokoaku-ml`](https://github.com/winterheatherica/tokoaku-ml)  
+  Flask-based API for **sentiment analysis** (IndoBERT), **review summarization** (IndoT5), and **sales forecasting** (BiLSTM), integrated into the full system.
 
 ---
 
