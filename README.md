@@ -25,7 +25,7 @@ A production-grade e-commerce system with integrated AI features, built using mo
 
 - 🔙 **Backend**  
   [`tokoaku-backend`](https://github.com/winterheatherica/tokoaku-backend)  
-  Built with **Go Fiber**, RESTful APIs, PostgreSQL (Supabase), Redis (Upstash), Firebase Auth, and integrations such as Tripay, RajaOngkir, and Cloudinary.
+  Built with **Go Fiber**, RESTful APIs, PostgreSQL (Supabase), Redis (Upstash), Firebase Auth, and integrations such as and Cloudinary.
 
 - 💻 **Frontend**  
   [`tokoaku-frontend`](https://github.com/winterheatherica/tokoaku-frontend)  
