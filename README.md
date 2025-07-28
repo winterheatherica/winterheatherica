@@ -33,7 +33,7 @@ A production-grade e-commerce system with integrated AI features, built using mo
 
 - 🧠 **Machine Learning API**  
   [`tokoaku-machine-learning`](https://github.com/winterheatherica/tokoaku-machine-learning)  
-  Flask-based API for **sentiment analysis** (IndoBERT), **review summarization** (IndoT5), and **sales forecasting** (BiLSTM), integrated into the full system.
+  Flask-based API for **sentiment analysis** (IndoBERT), **review summarization** (IndoT5), and **sales forecasting** (XGBoost), integrated into the full system.
 
 ---
 
